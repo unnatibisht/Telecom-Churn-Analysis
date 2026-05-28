@@ -20,7 +20,7 @@ Based on the analysis performed in the `Telecom_Churn_Analysis.ipynb` notebook:
 ---
 
 ## 📊 Featured Visualization
-> **Why I chose this:** This chart (Churn vs. Contract Type) is the "smoking gun" of the analysis. It clearly shows that flexibility (Month-to-Month) comes at the cost of high attrition.
+> **Why I chose this:** This chart (Churn vs. Contract Type) is the "smoking gun" of the analysis. It clearly shows that flexibility (Month-to-Month) comes at the cost of high damage
 
 ![Churn vs Contract Type](churn_analysis_plot.png) 
 <img width="862" height="473" alt="image" src="https://github.com/user-attachments/assets/07914cb4-c641-4f54-9044-64d4d2dc4185" />
